@@ -27,7 +27,6 @@
         }
       ],
       "secrets": [
-        "secrets": [
         {
           "name": "API_KEYS",
           "valueFrom": "arn:aws:secretsmanager:ap-southeast-2:941284018663:secret:api_keys-nhBJGi"
